@@ -1,0 +1,28 @@
+name: "What's in a Space"
+favicon: null
+layout_spectrum: 0.5714096657466143
+typography_spectrum: 0.32955896318890154
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.8367320948746055
+  lightness: 0.3498125916812569
+  saturation: 0.26374047016724944
+  rhythmicContrast: 0.20061610313132405
+purpose: []
